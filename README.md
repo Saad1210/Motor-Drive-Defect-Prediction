@@ -14,4 +14,4 @@ The goal of this project is to develop a predictive model that accurately identi
     - XGBoost
 - Hyperparameter Tuning: Optimizing the hyperparameters of each model to enhance performance.
 - Model Evaluation: Assessing the performance of the models using Precision, Recall, F1 Score, and accuracy metrics.
-- Best Model: The Random Forest model achieved the highest accuracy of 85.86%.
+- Best Model: The Random Forest model achieved the highest accuracy of 99.86%.
