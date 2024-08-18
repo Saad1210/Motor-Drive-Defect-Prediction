@@ -1,6 +1,7 @@
 # Motor-Drive-Defect-Prediction
 
 **Project Overview**
+
 The goal of this project is to develop a predictive model that accurately identifies default conditions in motor drives based on sensor data. By analyzing the behavior of over 45 electrical sensor parameters, various machine learning classifiers were trained, tuned, and evaluated to achieve the best possible accuracy.
 
 ## Features
